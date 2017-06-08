@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
-
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f9f9f9;
@@ -10,6 +9,18 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.offline,
+.online {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.logo {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
 }
 
 footer {
