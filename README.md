@@ -1,5 +1,5 @@
-Build a Wikipedia Viewer - Free Code Camp.
+Use-the-Twitchtv-JSON-API - Free Code Camp.
 
-![alt](https://github.com/christiandbf/wikipedia-viewer/blob/master/sample.jpg)
+![alt](https://github.com/christiandbf/Use-the-Twitchtv-JSON-API/blob/master/sample.jpg)
 
-[View here](https://christiandbf.github.io/wikipedia-viewer/)
+[View here](https://christiandbf.github.io/Use-the-Twitchtv-JSON-API/)
